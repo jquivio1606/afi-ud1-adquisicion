@@ -1,0 +1,59 @@
+Algoritmo utilizado: SHA-256
+Fecha de adquisición: 02/11/2026
+
+
+IMAGEN DE MEMORIA RAM
+---------------------
+memoria_ram.raw			85AC16C0CA479045B433B824507B9F8A34494DE9A9FBE0B00EE80E1103D1A064
+
+
+TRIAJE
+------
+triaje.raw			4F3B7B4564848DCE596C2EACCC945FDD42E27DF9F4110321C4814CF9DCE797B3
+
+
+DATOS VOLÁTILES
+---------------
+00-registro.txt			c79c4c8ee8ac967723fb8cb20fae7b4ca53376d9c2e75d01ca3be8dcae7c26de
+
+01-fecha-hora.txt		1f0a8657984ca2b1ee8f792392854c0d575bb9de75184f2b0a71a3ecdad26afe
+
+01b-sincronizacion.txt		3843d71da341c82c3fb8f800b8af6405feb50d1d19596b61b1ea39efcbb20a38
+
+02-arranque.txt			5c66d01d2dcd35056cc08cd78e7b18fb1e4a114a7d8431e709339e8ec68968e6
+
+03-sesiones.txt			c8e1b7ece1c1d689306413a1857193ebb9f404d57138ed518a507b71f788f10c
+
+04-conexiones-tcp.txt		43735b6f4b2027e26bfe11793572463c638b083ac200325e263e80d0b83cca87
+
+05-puertos-udp.txt		62b24c1e40b154f98dff1b86fbff8c52df3e91edc302ef4ae5245aaf21798609
+
+06-netstat.txt			441396bbc26979904660e7e17b3474ea7d4d7d6efb114a9540a3861ea4b05ca7
+
+07-cache-arp.txt		a9e7d29d279020310136a71b7d381d6dee77d179992c1128b2bac272b1a46938
+
+08-cache-dns.txt		c3eec4e8babbe76763e3a3cb8e8c7303189aa64957d28e7f2f3212fc1dc21969
+
+09-rutas.txt			8999a4824ac9e0891eca2669219ed80ab10a80d4efaaa0965315e23cb624e3a8
+
+10-configuracion-red.txt	415a02e87827cd2e4a6d68001a6202e079a8e2a07ac5c5583da1f82a17e2d4a5
+
+11-recursos-compartidos.txt	17cd3deeaef6a5f30b2c326b5267e735e56a3a6761a8fe8dabcdb421c665b0ae
+
+12-procesos.txt			079e3aa262809ddf0e6082bb462c8a6b0b1d13b8c5561765c3170e3fc062d78f
+
+13-servicios.txt		825fdd8edccd79cd2fda6387ddd93cdc4c769ce33e209f6523ce443255ce5a81
+
+14-tareas-programadas.txt	c254ec83d9276ccdecaa5fc5ab086318723af926edf49b34a037cdc4d5cb3b50
+
+15-inicio-automatico.txt	03d71280cc697af24416c810c9fe5d3205c671bc71b237585a74a7827b29e21f
+
+16-usuarios-locales.txt		c0952b2203793641072bc958be3f2fcb79b3f42c87cf662a913b7f869fb6e39d
+
+16b-administradores.txt		6b001d061cf6d0e58268ff06f58d4c447ad1fda9b5ecd4e9ae5e22d61dc42b31
+
+17-discos-volumenes.txt		bc3eb1c52d0b7195fbae7a55304f2d2401c7f126249672c6e8a1e7b962bfd4a0
+
+18-usb-conectados.txt		55e7c5fa2451d21c1c4b9249cecbb47ac993fb09149cfeceabd76c8d04c7d2f3
+
+19-portapapeles.txt		60116575bb1b6772ed22ba93bfa53bef0a772667da1812c1c3fc0a46cd93bc3e
