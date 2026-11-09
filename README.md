@@ -1,7 +1,9 @@
 # UD1 · Adquirir un equipo comprometido
-## Nombre: Judit Quirós Violero
+
+**Nombre:** Judit Quirós Violero
 
 ### Documentos del Proyecto
+* Ver las [notas de trabajo](notas-de-trabajo.md)
 * Ver el [Acta de Adquisición](acta-adquisicion.pdf)
 * Ver el [Registro de Custodia](registro-custodia.pdf)
 

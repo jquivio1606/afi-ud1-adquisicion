@@ -57,3 +57,5 @@ DATOS VOLÁTILES
 18-usb-conectados.txt		55e7c5fa2451d21c1c4b9249cecbb47ac993fb09149cfeceabd76c8d04c7d2f3
 
 19-portapapeles.txt		60116575bb1b6772ed22ba93bfa53bef0a772667da1812c1c3fc0a46cd93bc3e
+
+

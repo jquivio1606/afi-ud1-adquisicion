@@ -1,3 +1,4 @@
-# Evidencias forenses de gran tamaño
-/hashes/datos-volatiles/
+# Evidencias forenses
+hashes/datos-volatiles/
 *.raw
+evidencias/
