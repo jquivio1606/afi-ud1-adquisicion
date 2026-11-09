@@ -134,4 +134,7 @@ Se apaga la máquina virual mediante el botón de VirtualBox que pone "Apagar la
 
 [Enlace al acta de la adquisición.pdf](acta-adquisicion.pdf)
 
-[Enlace al registro de la cadena de custodia.pdf](registro-cadena-custodia.pdf)
+Enlaces a los registros de cadena de custodia:
+- [Cadena de custodia Evidencia 01](./registro-cadena-custodia/registro-cadena-custodia-E01.pdf)
+- [Cadena de custodia Evidencia 02](./registro-cadena-custodia/registro-cadena-custodia-E02.pdf)
+- [Cadena de custodia Evidencia 03](./registro-cadena-custodia/registro-cadena-custodia-E03.pdf)
